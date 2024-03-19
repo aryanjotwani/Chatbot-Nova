@@ -1,1 +1,1 @@
-# Chatbot-Nova
+Nova is an intelligent virtual assistant powered by PyTorch, designed to provide personalized assistance and engage in natural language conversations with users. With its advanced natural language processing capabilities, Nova can understand user queries, provide relevant information, and offer assistance in various tasks, all thanks to the robust machine learning capabilities of PyTorch.
